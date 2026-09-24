@@ -111,4 +111,3 @@ name stays over its neighbourhood — the way Apple Maps and Google Maps behave.
 
 `text-max-width` wraps long point labels onto balanced lines, `text-transform`
 and `text-padding` are honoured, and `text-opacity` applies to the text.
-
